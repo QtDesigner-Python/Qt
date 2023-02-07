@@ -61,13 +61,13 @@ $  No botão executar no canto superior direito
 
 <h3 id="utilizar">Como utilizar o software: </h3>
 
-Com uma interfaec
+
 
 ---
 
 <h3 id="uml">Diagrama UML</h3>
 
----
+<img alt="UML" title="UML" src="./img/UML.png" width="90%" />
 
 <h3 id="tecnologias">Tecnologias</h3>
 
@@ -83,23 +83,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <div style="display: flex; gap: 30px">
     <a href="https://github.com/brunopithon">
-        <img alt="Bruno Pithon" title="Bruno Pithon" src="./img/componentes/BrunoPithon.jpeg" height="100" width="100" />
+        <img alt="Bruno Pithon" title="Bruno Pithon" src="./img/componentes/BrunoPithon.jpeg" height="120" width="120" />
         <p>Bruno Pithon</p>
     </a>
     <a href="https://github.com/PauloMonteiro98">
-        <img alt="João Paulo" title="João Paulo" src="./img/componentes/JoaoPaulo.jpeg" height="100" width="100" />
+        <img alt="João Paulo" title="João Paulo" src="./img/componentes/JoaoPaulo.jpeg" height="120" width="120" />
         <p>João Paulo</p>
     </a>
       <a href="https://github.com/RenanTuribio">
-        <img alt="José Renan" title="José Renan" src="./img/componentes/Renan.jpeg" height="100" width="100" />
+        <img alt="José Renan" title="José Renan" src="./img/componentes/Renan.jpeg" height="120" width="120" />
         <p>José Renan</p>
     </a>
       <a href="https://github.com/jhonyalife">
-        <img alt="Jhony Alife" title="Jhony Alife" src="./img/componentes/JhonyAlife.jpeg" height="100" width="100" />
+        <img alt="Jhony Alife" title="Jhony Alife" src="./img/componentes/JhonyAlife.jpeg" height="120" width="120" />
         <p>Jhony Alife</p>
     </a>
       <a href="https://github.com/TiagoAlvesBrito">
-        <img alt="Tiago Alves" title="Tiago Alves" src="./img/componentes/TiagoAlves.jpeg" height="100" width="100" />
+        <img alt="Tiago Alves" title="Tiago Alves" src="./img/componentes/TiagoAlves.jpeg" height="120" width="120" />
         <p>Tiago Alves</p>
     </a> 
 </div>
