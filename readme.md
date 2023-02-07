@@ -12,7 +12,7 @@
  <a href="#autor">Autores</a>
 </p>
 
-<img src="" alt="Gif de apresentação" width="100%">
+<img alt="UML" title="UML" src="./img/apresentacao.gif" width="100%" />
 
 ---
 
