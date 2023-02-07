@@ -100,24 +100,24 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h3 id="autor">Autores</h3>
 
 <div style="display: flex; gap: 30px">
-    <a href="https://github.com/brunopithon">
+    <span><a href="https://github.com/brunopithon">
         <img alt="Bruno Pithon" title="Bruno Pithon" src="./img/componentes/BrunoPithon.jpeg" height="120" width="120" />
         <p>Bruno Pithon</p>
-    </a>
-    <a href="https://github.com/PauloMonteiro98">
+    </a></span>
+    <span><a href="https://github.com/PauloMonteiro98">
         <img alt="João Paulo" title="João Paulo" src="./img/componentes/JoaoPaulo.jpeg" height="120" width="120" />
         <p>João Paulo</p>
-    </a>
-      <a href="https://github.com/RenanTuribio">
+    </a></span>
+      <span><a href="https://github.com/RenanTuribio">
         <img alt="José Renan" title="José Renan" src="./img/componentes/Renan.jpeg" height="120" width="120" />
         <p>José Renan</p>
-    </a>
-      <a href="https://github.com/jhonyalife">
+    </a></span>
+      <span><a href="https://github.com/jhonyalife">
         <img alt="Jhony Alife" title="Jhony Alife" src="./img/componentes/JhonyAlife.jpeg" height="120" width="120" />
         <p>Jhony Alife</p>
-    </a>
-      <a href="https://github.com/TiagoAlvesBrito">
+    </a></span>
+      <span><a href="https://github.com/TiagoAlvesBrito">
         <img alt="Tiago Alves" title="Tiago Alves" src="./img/componentes/TiagoAlves.jpeg" height="120" width="120" />
         <p>Tiago Alves</p>
-    </a> 
+    </a></span>
 </div>
