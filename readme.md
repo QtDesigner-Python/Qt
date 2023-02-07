@@ -60,8 +60,26 @@ $  No botão executar no canto superior direito
 ---
 
 <h3 id="utilizar">Como utilizar o software: </h3>
+<br>
 
+<p> A tela HOME é o ponto de partida do aplicativo, a partir dela conseguimos visualizar nossas principais ferramentas e utildades </p>
+<img alt="UML" title="UML" src="./img/tela1.png" width="90%" />
+<br>
 
+<p> Acessando o menu de agendamento conseguimos fazer o cadastro de novos atendimentos</p>
+<img alt="UML" title="UML" src="./img/tela2.png" width="90%" />
+<br>
+
+<p> No menu agendamento na aba de AGENDA conseguimos visualizar todos os agendamentos feitos, bem como adicionar, editar e excluir os agendamentos já existentes. </p>
+<img alt="UML" title="UML" src="./img/tela3.png" width="90%" />
+<br>
+
+<p> Na aba de CADASTRO é possível cadastrar e gerir os cadastros dos pacientes e profissionais </p>
+<img alt="UML" title="UML" src="./img/tela4.png" width="90%" />
+<br>
+
+<p> Acessando a tela de CADASTRO nas abas PROFISSIONAL ou PACIENTE é possível visualizar as pessoas inseridas fazendo a manutenção de seu cadastro  </p>
+<img alt="UML" title="UML" src="./img/tela5.png" width="90%" />
 
 ---
 
